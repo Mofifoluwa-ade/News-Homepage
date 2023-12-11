@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![A screenshot of the finished product](./Group.png)
+![A screenshot of the finished product](https://github.com/Mofifoluwa-ade/News-Homepage/assets/71476072/c8e3b101-2304-4cc8-b0fd-76b0c9eda295)
+
 
 
 ### Links
